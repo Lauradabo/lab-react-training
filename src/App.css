@@ -1,4 +1,27 @@
-.App {
+.Card {
+  border : black solid 1px;
+  display: flex;
+  padding : 5px;
+  margin: 10px;
+}
+
+.Card ul {
+  list-style: none;
+}
+
+span {
+  font-weight: bold;
+}
+
+.langue, .random-num {
+  border : black solid 1px;
+  padding : 5px;
+  margin: 10px;
+}
+
+
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +58,8 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
+
+
+
+
